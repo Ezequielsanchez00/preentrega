@@ -1,0 +1,71 @@
+/*HEADER*/
+
+a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: gray;
+    margin-left: 15px;
+}
+
+h1 {
+    text-align: center;
+    color: pink;
+}
+
+header {
+    background-color: bisque;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+}
+
+/*MAIN*/
+main {
+    background-color: beige;
+}
+
+.parrafo {
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/*Imagenes*/
+
+img {
+    width: 450px;
+}
+/*footer*/
+
+footer {
+   background-color: bisque;
+}
+
+/*contacto*/
+
+.contacto {
+    background-color: pink;
+}
+
+.botom {
+    color: black;
+}
+
+.h2bio {
+    background-color: gray;
+    color: black;
+    text-align: center;
+    
+}
+
+.colorAqua {
+    color: aqua;
+}
+
+
+
+
+
+
