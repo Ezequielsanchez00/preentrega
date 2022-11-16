@@ -1,71 +1,58 @@
-/*HEADER*/
-
-a {
-    text-decoration: none;
-    text-transform: uppercase;
-    color: gray;
-    margin-left: 15px;
-}
-
-h1 {
-    text-align: center;
-    color: pink;
-}
-
-header {
-    background-color: bisque;
-}
-
-li {
-    list-style: none;
-    display: inline-block;
-}
-
-/*MAIN*/
-main {
-    background-color: beige;
+.container {
+  color: black;
+  background-color: bisque;
 }
 
 .parrafo {
-    text-align: center;
-    font-size: 35px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: white;
+  background-color: black;
+  font-size: 30px;
 }
 
-/*Imagenes*/
-
-img {
-    width: 450px;
+.navbar {
+  font-size: 18px;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-decoration: none;
 }
-/*footer*/
+
+header {
+  background-color: rgb(7, 55, 39);
+  display: flex;
+  justify-content: space-between;
+  color: black;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+nav {
+  background-color: rgb(7, 55, 39);
+  text-transform: uppercase;
+}
+
+.primerEstillo, .segundoEstillo {
+  text-transform: uppercase;
+  background-color: bisque;
+}
+
+.parrafo {
+  text-transform: none;
+}
+
+.primerEstillo, .segundoEstillo {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+.segundoEstillo {
+  font-size: 25px;
+}
 
 footer {
-   background-color: bisque;
+  background-color: aquamarine;
+  text-align: center;
+  text-decoration: none;
 }
 
-/*contacto*/
-
-.contacto {
-    background-color: pink;
-}
-
-.botom {
-    color: black;
-}
-
-.h2bio {
-    background-color: gray;
-    color: black;
-    text-align: center;
-    
-}
-
-.colorAqua {
-    color: aqua;
-}
-
-
-
-
-
-
+/*# sourceMappingURL=estilo.css.map */
