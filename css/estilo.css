@@ -4,9 +4,10 @@
 }
 
 .parrafo {
-  color: white;
-  background-color: black;
-  font-size: 30px;
+  color: black;
+  background-color: aliceblue;
+  font-size: 25px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .navbar {
@@ -16,43 +17,63 @@
   text-decoration: none;
 }
 
-header {
-  background-color: rgb(7, 55, 39);
-  display: flex;
-  justify-content: space-between;
-  color: black;
-  text-transform: uppercase;
-  font-weight: bold;
-}
+
 
 nav {
-  background-color: rgb(7, 55, 39);
+  background-color: aliceblue;
   text-transform: uppercase;
 }
 
-.primerEstillo, .segundoEstillo {
+.primerEstillo {
   text-transform: uppercase;
   background-color: bisque;
 }
 
-.parrafo {
-  text-transform: none;
-}
 
-.primerEstillo, .segundoEstillo {
+.Tituloh2 {
   font-family: Arial, Helvetica, sans-serif;
   font-weight: bold;
   text-align: center;
+  font-size: 55px;
 }
 
-.segundoEstillo {
-  font-size: 25px;
+
+.Estillo1 {
+  text-align: left;
+  font-size: 30px;
+  font
+
 }
 
-footer {
-  background-color: aquamarine;
-  text-align: center;
-  text-decoration: none;
+.Estillo2 {
+  text-align: left;
+  font-size: 30px;
+  
+}
+
+
+.footer{
+  align-items: center;
+  height: 190px;
+  background-color: rgb(3, 0, 0);
+  width: 100%;
 }
 
 /*# sourceMappingURL=estilo.css.map */
+
+.container-mb {
+  text-align: center;
+}
+
+.Lista2 {
+  background-color: aliceblue;
+}
+
+.Class3 {
+  text-align: center;
+} 
+
+
+
+
+
